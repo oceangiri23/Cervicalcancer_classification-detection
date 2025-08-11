@@ -1,8 +1,7 @@
 archive
 runs
 cell_detection_1
-*.pt
-*.pth
+
 classification_train copy.ipynb
 combined.py
 main.py
