@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+images/
+__pycache__/
+
+env/
+
+uploads/
+results/
