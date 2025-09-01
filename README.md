@@ -10,7 +10,6 @@ A YOLOv8-based object detection project for automated detection and classificati
 - [Installation](#installation)
 - [Usage](#usage)
 - [Model Architecture](#model-architecture)
-- [Results](#results)
 
 ## 🔍 Overview
 
