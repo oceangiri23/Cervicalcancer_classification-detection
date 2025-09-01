@@ -1,6 +1,6 @@
 # Cervical Cancer Cell Detection & Classification
 
-A YOLOv8-based object detection project for automated detection and classification of cervical cancer cells from cytological images. This system can identify and classify different types of cervical cells including Dyskeratotic, Koilocytotic, Metaplastic, Parabasal, and Superficial-Intermediate cells.
+A YOLOv8-based object detection project for automated detection and Effective-Net B5 for  classification of cervical cancer cells from cytological images. This system can identify and classify different types of cervical cells including Dyskeratotic, Koilocytotic, Metaplastic, Parabasal, and Superficial-Intermediate cells.
 
 ## 📋 Table of Contents
 
@@ -17,7 +17,8 @@ This project implements YOLOv8 object detection to automatically detect and clas
 
 ## ✨ Features
 
-- **YOLOv8 Object Detection**: State-of-the-art real-time cell detection and classification
+- **YOLOv8 Object Detection**: State-of-the-art real-time cell
+- **EffectiveNet-B5** : For cell image classification
 - **Multi-class Detection**: Identifies 5 different cervical cell types
 - **Automated Preprocessing**: Converts polygon annotations to YOLO format
 - **Data Augmentation**: Advanced augmentation techniques to prevent overfitting
